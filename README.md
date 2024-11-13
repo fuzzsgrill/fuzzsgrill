@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fuzzsgrill
 - 👀 I’m interested in ... sound and lighting 
-- 🌱 I’m currently learning ... git
-- ⚡ Fun fact: ... I have 4 guinea pigs who love to pancake and loaf
+- 🌱 I’m currently learning ... packwiz
+- ⚡ Fun fact: ... I have 5 guinea pigs who love to pancake and loaf
 
 <!---
 fuzzsgrill/fuzzsgrill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
